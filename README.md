@@ -17,6 +17,6 @@ Step 3: Do XOR operation for those four binary data. So the encoded hamming code
 
 Step 4: Put 1011 into original data 10101001. 
 
-Step 5: So the encoded hamming code is 101011000111
- 
-                                                     
+Step 5: So the encoded hamming code is 101011000111.
+
+​                                                     
