@@ -11,7 +11,7 @@ Because 4+8 = 12, using 4-bit check bit can represent the all situations.
 ## How to encode the data
 Step 1: Choosing the position for binary data 1. So we choose 1, 4, 6 and 8.
 
-Step 2: 1 in binary is 0001, 4 in binary is 0100, 6 in binary is 0110 and 8 in binary is 1000
+Step 2: 1 in binary is 0001, 4 in binary is 0100, 6 in binary is 0110 and 8 in binary is 1000.
 
 Step 3: Do XOR operation for those four binary data. So the encoded hamming code is 1011.
 
@@ -22,7 +22,7 @@ Step 5: So the encoded hamming code is 101010011011.
 ## How to decode the data
 Step 1: Pick up the all 1 binary number positions in encoded hamming code 101010011011.
 
-Step 2: All 1 binary number position are 
+Step 2: All 1 binary number position are. 
 
 Step 3: Exclude the 2**n position, so the 1 binary number position are 3, 7, 10, 12.
 
