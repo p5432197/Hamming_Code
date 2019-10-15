@@ -22,7 +22,7 @@ Step 5: So the encoded hamming code is 101010011011.
 ## How to decode the data
 Step 1: Pick up the all 1 binary number positions in encoded hamming code 101010011011.
 
-Step 2: All 1 binary number position are. 
+Step 2: All 1 binary number position are 
 
 Step 3: Exclude the 2**n position, so the 1 binary number position are 3, 7, 10, 12.
 
